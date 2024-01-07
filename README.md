@@ -19,8 +19,6 @@ Mentorship, training, or open-source contribution programs.
 | [MLH Fellowship](https://fellowship.mlh.io/programs/software-engineering) | ? | Match students to an open-source project. Stipend available. |
 | [CodeDay Labs](https://labs.codeday.org/) | ? | 💥Unpaid💥 mentorship. Matched with a mentor from the technology industry and will contribute to an open-source project. [💥💥This program has another opportunity in Spring 2024💥💥](#fellowships-for-spring-2024)|
 
-CodeDay Labs Industry - EBSCO
-
 <br/>
 
 ## Fellowships For Spring 2024
