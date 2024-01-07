@@ -22,7 +22,7 @@ Fellowships are mentorship, training, or open-source contribution programs. Thes
 
 | Name | Status | Note |
 | ---- | ------ | ---- | 
-| [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/#projects_all) | [January 29](https://github.com/cncf/mentoring/tree/main/programs/lfx-mentorship/2024/01-Mar-May) | Match students to an open-source project. Stipend available. |
+| [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/#projects_all) | [💥💥January 29💥💥](https://github.com/cncf/mentoring/tree/main/programs/lfx-mentorship/2024/01-Mar-May) | Match students to an open-source project. Stipend available. |
 
 <br/>
 
