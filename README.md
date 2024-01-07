@@ -17,7 +17,9 @@ Mentorship, training, or open-source contribution programs.
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | [March 18](https://developers.google.com/open-source/gsoc/timeline) | Match students to an open-source project. Stipend available. |
 | [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/#projects_all) | [April 29](https://github.com/cncf/mentoring/blob/main/programs/lfx-mentorship/2024/02-Jun-Aug/README.md) | Match students to an open-source project. Stipend available. [💥💥Spring 2024💥💥](#fellowships-for-spring-2024) |
 | [MLH Fellowship](https://fellowship.mlh.io/programs/software-engineering) | ? | Match students to an open-source project. Stipend available. |
-| [CodeDay Labs](https://labs.codeday.org/) | ? | 💥Unpaid💥 mentorship. Matched with a mentor from the technology industry and will contribute to an open-source project. |
+| [CodeDay Labs](https://labs.codeday.org/) | ? | 💥Unpaid💥 mentorship. Matched with a mentor from the technology industry and will contribute to an open-source project. [💥💥Spring 2024💥💥](#fellowships-for-spring-2024)|
+
+CodeDay Labs Industry - EBSCO
 
 <br/>
 
@@ -25,6 +27,7 @@ Mentorship, training, or open-source contribution programs.
 
 | Name | Status | Note |
 | ---- | ------ | ---- | 
+| [CodeDay Labs Industry - EBSCO](https://labs.codeday.org/apply) | ✅ Opened | 💥Unpaid💥 mentorship. Matched with a mentor from the technology industry and will contribute to an open-source project. |
 | [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/#projects_all) | [💥💥January 29💥💥](https://github.com/cncf/mentoring/tree/main/programs/lfx-mentorship/2024/01-Mar-May) | Match students to an open-source project. Stipend available. |
 
 <br/>
