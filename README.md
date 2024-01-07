@@ -1,5 +1,5 @@
-<h1 align="center">
-# Summer 2024 Back Up Plan
+<h1 align="center" style="bold">
+Summer 2024 Back Up Plan
 </h1>
 
 <br/>
