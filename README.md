@@ -42,4 +42,4 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships.
 ## Scholarships
 | Name | Status | Note |
 | ---- | ---- | ---- |
-| ✨ [Generation Google Scholarship (North America)](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship) | [early 2024](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship) | 10,000 USD scholarship for students with financial need in computer science. |
+| [Generation Google Scholarship ](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship) | [early 2024](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship) | 10,000 USD scholarship for students with financial need in computer science. |
