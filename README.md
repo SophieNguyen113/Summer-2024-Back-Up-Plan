@@ -3,13 +3,14 @@
 <br/>
 
 ## Fellowships
+Fellowships are mentorship, training, or open-source contribution programs. These are in 6-12 weeks. 
 
-| Name | Year | Status | Note |
-| ---- | ---- | ------ | ---- | 
-| [Year Up](https://www.yearup.org/students) | All student | Opened | Free hybrid training program. Get matched to an internship after training |
-| [Google Summer of Code](https://summerofcode.withgoogle.com/) | All student | [March 18](https://developers.google.com/open-source/gsoc/timeline) | Program for developers new to open-source contribution. Stipend available |
-| [Outreachy](https://www.outreachy.org/) | All Student | [mid-January to late-January](https://www.outreachy.org/) | Match students to an open-source project. Stipend available |
-| [Break Through Tech AI Fellowship](https://tech.cornell.edu/impact/break-through-tech/break-through-ai/) | All Student| Opened | 1-year virtual program starting in summer. Focused on female/nonbinary students and students from underrepresented backgrounds.|
+| Name | Status | Note |
+| ---- | ------ | ---- | 
+| [Year Up](https://www.yearup.org/students) | Opened | Free hybrid training program. Get matched to an internship after training. |
+| [Google Summer of Code](https://summerofcode.withgoogle.com/) | [March 18](https://developers.google.com/open-source/gsoc/timeline) | Program for developers new to open-source contribution. Stipend available. |
+| [Outreachy](https://www.outreachy.org/) | [mid-January to late-January](https://www.outreachy.org/) | Match students to an open-source project. Stipend available. |
+| [Break Through Tech AI Fellowship](https://tech.cornell.edu/impact/break-through-tech/break-through-ai/) | Opened | 1-year virtual program starting in summer. Focused on female/nonbinary students and students from underrepresented backgrounds.|
 
 <br/>
 
