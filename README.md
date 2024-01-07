@@ -1,7 +1,5 @@
 # Summer-2024-Back-Up-Plan
 
-<br/>
-
 ## Fellowships
 Fellowships can be internships, but also mentorship, training, or open source contribution programs. These are long in duraction (6-12 weeks)
 
