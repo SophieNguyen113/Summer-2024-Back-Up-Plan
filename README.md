@@ -27,7 +27,7 @@ CodeDay Labs Industry - EBSCO
 
 | Name | Status | Note |
 | ---- | ------ | ---- | 
-| [CodeDay Labs Industry - EBSCO](https://labs.codeday.org/apply) | ✅ Opened | 💥Unpaid💥 mentorship. Matched with a mentor from the technology industry and will contribute to an open-source project. |
+| [CodeDay Labs Industry - EBSCO](https://labs.codeday.org/apply) | ✅ Opened | Short 💥unpaid💥 mentorship (Jan 15, 2024 — Feb 26, 2024). Matched with a mentor from the technology industry and will contribute to an open-source project. |
 | [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/#projects_all) | [January 29](https://github.com/cncf/mentoring/tree/main/programs/lfx-mentorship/2024/01-Mar-May) | Match students to an open-source project. Stipend available. |
 
 <br/>
