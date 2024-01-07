@@ -1,4 +1,4 @@
-<h1 align="center" style="bold">
+<h1 align="center">
 Summer 2024 Back Up Plan
 </h1>
 
