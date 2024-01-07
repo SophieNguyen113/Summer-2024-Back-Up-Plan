@@ -5,22 +5,13 @@
 ## Fellowships
 
 | Name | Year | Status | Note |
-| ---- | ---- | ---- 
-| [MLH Fellowship](https://fellowship.mlh.io/) | All student | Remote 12-week open-source internship in SWE, SRE, and Web3. Available for Spring, Summer, and Fall. Stipend available. Guaranteed interview for MLH hackathon winners |
-| [Year Up](https://www.yearup.org/students) | All student | Free hybrid training program. Get matched to an internship after training |
-| [Google Summer of Code](https://summerofcode.withgoogle.com/) | All student | Program for developers new to open-source contribution. Stipend available |
-| ✨ [Outreachy](https://www.outreachy.org/) | All Student | Match students to an open-source project. Stipend available |
-| [Bellingcat Tech Fellow](https://www.bellingcat.com/become-a-bellingcat-tech-fellow-2/) | All student | 2-6 month self-paced program to work on open source research tools. Stipend available |
-| Trail of Bits | All student | Work on cybersecurity related projects durign winter break. [Vulnerability Research](https://jobs.lever.co/trailofbits/5c836c41-04d0-4f16-8f7d-e3cfdc33191b) and [Open Source](https://jobs.lever.co/trailofbits/6a491883-3aaf-444e-a56c-3a0b37d6837e). Stipend available |
-| [Impact Labs Fellowship](https://www.impactlabs.io/fellowship) | All student | 2-week program in NYC during winter break. Financial assistance available |
-| [Bessemer Fellowship](https://www.bvp.com/bessemer-fellows) | 3rd-year students | 8-12 week program. Focused on students from underrepresented backgrounds|
-| [Break Through Tech AI Fellowship](https://tech.cornell.edu/impact/break-through-tech/break-through-ai/) | All Student| Opens in January 2024. 1 year virtual program starting in the summer . Focused on females/nonbinary students and students from underrepresented backgrounds.|
-
-
-
+| ---- | ---- | ------ | ---- | 
+| [Year Up](https://www.yearup.org/students) | All student | Opened | Free hybrid training program. Get matched to an internship after training |
+| [Google Summer of Code](https://summerofcode.withgoogle.com/) | All student | [March 18](https://developers.google.com/open-source/gsoc/timeline) | Program for developers new to open-source contribution. Stipend available |
+| [Outreachy](https://www.outreachy.org/) | All Student | [mid-January to late-January](https://www.outreachy.org/) | Match students to an open-source project. Stipend available |
+| [Break Through Tech AI Fellowship](https://tech.cornell.edu/impact/break-through-tech/break-through-ai/) | All Student| Opened | 1-year virtual program starting in summer. Focused on female/nonbinary students and students from underrepresented backgrounds.|
 
 <br/>
-
 
 ## Internship-matching Fellowships
 A type of fellowship hosted by NPOs/VCs for matching students to internships.
