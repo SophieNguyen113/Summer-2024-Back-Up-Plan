@@ -1,9 +1,10 @@
 # Summer-2024-Back-Up-Plan
 
-## Fellowships
-Fellowships can be internships, but also mentorship, training, or open source contribution programs. These are long in duraction (6-12 weeks)
+<br/>
 
-| Name | Year | Note |
+## Fellowships
+
+| Name | Year | Status | Note |
 | ---- | ---- | ---- 
 | [MLH Fellowship](https://fellowship.mlh.io/) | All student | Remote 12-week open-source internship in SWE, SRE, and Web3. Available for Spring, Summer, and Fall. Stipend available. Guaranteed interview for MLH hackathon winners |
 | [Year Up](https://www.yearup.org/students) | All student | Free hybrid training program. Get matched to an internship after training |
