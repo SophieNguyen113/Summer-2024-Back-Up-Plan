@@ -54,7 +54,7 @@ Short programs designed to help you get to know (and get noticed by) a company.
 
 | Name | Status | Note |
 | ---- | ---- | ---- |
-| [Simplify Interviews Scholarship](https://lnkd.in/gBfKe_NW) | ✅ Opened | Full-ride scholarship that gives full access to all content, speaker events, live coding and behavioral sessions, and more. [More details](https://www.simplifyinterviews.com/) |
+| [Simplify Interviews Scholarship](https://simplifyinterviews.typeform.com/scholarship?typeform-source=www.linkedin.com) | ✅ Opened | Full-ride scholarship that gives full access to all content, speaker events, live coding and behavioral sessions, and more. [More details](https://www.simplifyinterviews.com/) |
 | [Generation Google Scholarship](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship) | [Early 2024](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship) | 10,000 USD scholarship for students with financial need in computer science. |
 
 <br/>
