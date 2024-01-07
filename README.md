@@ -44,6 +44,7 @@ Short programs designed to help you get to know (and get noticed by) a company.
 
 | Name | Status | Note |
 | ---- | ---- | ---- |
+| [Jane Street Immersion Program](https://www.janestreet.com/join-jane-street/programs-and-events/jsip/) | ✅ Opened | Fellowship at Jane Street NYC. Scholarship available. |
 | [Palantir Launch Spring Program](https://jobs.lever.co/palantir/220a225d-2f9c-4ee2-b28a-3a9683acb3ec) | ✅ Opened | 1-week on-site at Palantir with interactive workshops and hands-on sessions. |
 
 <br/>
@@ -53,5 +54,14 @@ Short programs designed to help you get to know (and get noticed by) a company.
 | Name | Status | Note |
 | ---- | ---- | ---- |
 | [Generation Google Scholarship](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship) | [Early 2024](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship) | 10,000 USD scholarship for students with financial need in computer science. |
+
+<br/>
+
+## Special Programs & Resources
+
+| Name | Note |
+| ---- | ---- |
+| [CodePath](https://www.codepath.org/plan-your-codepath) | Free online courses in web dev, mobile, cyber, etc. Also provide resume help, mentorship, interview prep, recruiting events, etc. |
+| [Forage](https://www.theforage.com/) | 5-6 hour virtual work experience programs. Featuring JPMC, Lyft, Visa, EA, SAP, etc. |
 
 <br/>
