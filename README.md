@@ -26,7 +26,7 @@ Mentorship, training, or open-source contribution programs.
 
 | Name | Status | Note |
 | ---- | ------ | ---- | 
-| [CodeDay Labs Industry - EBSCO](https://labs.codeday.org/apply) | ✅ Opened | Short mentorship (Jan 15, 2024 — Feb 26, 2024). Stipend available. [More details](https://github.com/SophieNguyen113/Summer-2024-Back-Up-Plan/blob/main/CodeDay%20Labs%20Spring%2024.png) |  
+| [CodeDay Labs Industry - EBSCO](https://labs.codeday.org/apply) | ⛔ Closed | Short mentorship (Jan 15, 2024 — Feb 26, 2024). Stipend available. [More details](https://github.com/SophieNguyen113/Summer-2024-Back-Up-Plan/blob/main/CodeDay%20Labs%20Spring%2024.png) |  
 | [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/#projects_all) | [January 29](https://github.com/cncf/mentoring/tree/main/programs/lfx-mentorship/2024/01-Mar-May) | Match students to an open-source project. Stipend available. |
 
 <br/>
