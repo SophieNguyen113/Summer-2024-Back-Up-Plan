@@ -19,7 +19,7 @@ Mentorship, training, or open-source contribution programs.
 | [Fellows Program - America Needs You](https://americaneedsyou.org/fellows-program/) | ✅ Opened | Two-year program that provides one-on-one mentorship, intensive career development, robust networks, and holistic support. |
 | [MetLife Technical University/MTU Summer Internship Program](https://www.metlifecareers.com/ml/Blog?folderId=940) | [January 2024](https://www.metlifecareers.com/ml/Blog?folderId=940) | Gain experience needed to grow a successful career in tech. |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | [March 18](https://developers.google.com/open-source/gsoc/timeline) | Match students to an open-source project. Stipend available. |
-| [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/#projects_all) | [April 29](https://github.com/cncf/mentoring/blob/main/programs/lfx-mentorship/2024/02-Jun-Aug/README.md) | Match students to an open-source project. Stipend available. [💥💥This program has another opportunity in Spring 2024💥💥](#fellowships-for-spring-2024) |
+| [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/#projects_all) | [April 29 💥Please click on this for the list of accepted organizations💥](https://github.com/cncf/mentoring/blob/main/programs/lfx-mentorship/2024/02-Jun-Aug/README.md) | Match students to an open-source project. Stipend available. [💥💥This program has another opportunity in Spring 2024💥💥](#fellowships-for-spring-2024) |
 | [CodeDay Labs](https://labs.codeday.org/) | ? | 💥Unpaid💥 mentorship. Matched with a mentor from the technology industry and will contribute to an open-source project. [💥💥This program has another opportunity in Spring 2024💥💥](#fellowships-for-spring-2024)|
 
 <br/>
@@ -30,7 +30,7 @@ Mentorship, training, or open-source contribution programs.
 | Name | Status | Note |
 | ---- | ------ | ---- | 
 | [CodeDay Labs Industry - EBSCO](https://labs.codeday.org/apply) | ⛔ Closed | Short mentorship (Jan 15, 2024 — Feb 26, 2024). Stipend available. [More details](https://github.com/SophieNguyen113/Summer-2024-Back-Up-Plan/blob/main/CodeDay%20Labs%20Spring%2024.png) |  
-| [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/#projects_all) | [January 29](https://github.com/cncf/mentoring/tree/main/programs/lfx-mentorship/2024/01-Mar-May) | Match students to an open-source project. Stipend available. |
+| [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/#projects_all) | [January 29 💥Please click on this for the list of accepted organizations💥](https://github.com/cncf/mentoring/tree/main/programs/lfx-mentorship/2024/01-Mar-May) | Match students to an open-source project. Stipend available. |
 
 <br/>
 
