@@ -54,7 +54,7 @@ Short programs designed to help you get to know (and get noticed by) a company.
 | Name | Status | Note |
 | ---- | ---- | ---- |
 | [Jane Street Immersion Program](https://www.janestreet.com/join-jane-street/programs-and-events/jsip/) | ✅ Opened | Fellowship at Jane Street NYC. Scholarship available. |
-| [Palantir Launch Spring Program](https://jobs.lever.co/palantir/220a225d-2f9c-4ee2-b28a-3a9683acb3ec) | ✅ Opened | 1-week on-site at Palantir with interactive workshops and hands-on sessions. |
+| [Palantir Launch Spring Program](https://jobs.lever.co/palantir/220a225d-2f9c-4ee2-b28a-3a9683acb3ec) | ⛔ Closed | 1-week on-site at Palantir with interactive workshops and hands-on sessions. |
 
 <br/>
 
@@ -62,7 +62,7 @@ Short programs designed to help you get to know (and get noticed by) a company.
 
 | Name | Status | Note |
 | ---- | ---- | ---- |
-| [Simplify Interviews Scholarship](https://lnkd.in/gBfKe_NW) | ✅ Opened | Full-ride scholarship that gives full access to all content, speaker events, live coding and behavioral sessions, and more. [More details](https://www.simplifyinterviews.com/) |
+| [Simplify Interviews Scholarship](https://lnkd.in/gBfKe_NW) | ⛔ Closed | Full-ride scholarship that gives full access to all content, speaker events, live coding and behavioral sessions, and more. [More details](https://www.simplifyinterviews.com/) |
 | [Generation Google Scholarship](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship) | [Early 2024](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship) | 10,000 USD scholarship for students with financial need in computer science. |
 
 <br/>
