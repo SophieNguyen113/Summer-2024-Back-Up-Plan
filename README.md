@@ -67,9 +67,11 @@ Short programs designed to help you get to know (and get noticed by) a company.
 | [FS-ISAC Scholarship](https://www.fsisac.com/scholarships?utm_medium=email&_hsmi=290084339&utm_content=289826386&utm_source=hs_email) | [Early 2024](https://www.fsisac.com/scholarships?utm_medium=email&_hsmi=290084339&utm_content=289826386&utm_source=hs_email) | $10,000 scholarship for the 2023-24 academic year |
 | [Lockheed Martin Scholarship](https://lockheedmartin.com/en-us/who-we-are/communities/stem-education/lm-scholarship-program.html) | [Early 2024](https://lockheedmartin.com/en-us/who-we-are/communities/stem-education/lm-scholarship-program.html) | $10,000 scholarship to students pursuing a bachelor's degree in engineering, computer science, math and physics fields! |
 | [Generation Google Scholarship](https://corporate.charter.com/newsroom/spectrum-scholars-2024-applications-open) | [Early 2024](https://corporate.charter.com/newsroom/spectrum-scholars-2024-applications-open) | the 2024-2025 program will receive a $20,000 scholarship, a Charter mentor and the opportunity for a paid internship with the company. |
+| [BIPOC LGBTQ Scholarship](https://pointfoundation.org/scholarships/bipoc) | [Early 2024](https://pointfoundation.org/scholarships/bipoc) | BIPOC and LGBTQ students intending to enroll in accredited US postsecondary institutions between Fall 2024 and Spring 2025. |
+| [The Genetex Scholarship](https://www.educations.com/scholarships/study-a-bachelors-in-usa-19901) | [Early 2024](https://www.educations.com/scholarships/study-a-bachelors-in-usa-19901) | 2000$ enrolled STEM majors at accredited colleges/universities, open to international and DACA/undocumented students. |
 
 <br/>
-
+I am done right now. I'm OK range fine scholarship right now. I'm done tell me. Yes terminal underwater remote permission to. I am done right now. I'm OK baby. OK baby. OK baby queen hi hi guys scholarship down. Good night down. Where can 
 ## Special Programs & Resources
 
 | Name | Note |
