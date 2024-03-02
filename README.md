@@ -17,6 +17,7 @@ Mentorship, training, or open-source contribution programs.
 | [Fellows Program - America Needs You](https://americaneedsyou.org/fellows-program/) | ✅ Opened | Two-year program that provides one-on-one mentorship, intensive career development, robust networks, and holistic support. |
 | [CodeDay Labs](https://labs.codeday.org/) | ✅ Opened | 💥Unpaid💥 mentorship. Matched with a mentor from the technology industry and will contribute to an open-source project. [💥💥This program has another opportunity in Spring 2024💥💥](#fellowships-for-spring-2024)|
 | [CodePath Full Stack Tech Fellow](https://boards.greenhouse.io/codepath/jobs/4182850007) | ✅ Opened | 💥Full Time, Summer Contract💥 |
+| [GGV NextGen Fellowship](https://www.ggvc.com/ggv-nextgen-fellow/) | ✅ Opened | Paired with a GGV-funded company, which creates internships in software engineering, finance, sales, and more. |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | [March 18](https://developers.google.com/open-source/gsoc/timeline) | Match students to an open-source project. Stipend available. |
 | [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/#projects_all) | [April 29 💥Please click on this for the list of accepted organizations💥](https://github.com/cncf/mentoring/blob/main/programs/lfx-mentorship/2024/02-Jun-Aug/README.md) | Match students to an open-source project. Stipend available. [💥💥This program has another opportunity in Spring 2024💥💥](#fellowships-for-spring-2024) |
 | [MetLife Technical University/MTU Summer Internship Program](https://www.metlifecareers.com/ml/Blog?folderId=940) | ? | Gain experience needed to grow a successful career in tech. |
@@ -45,6 +46,7 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships.
 | [Neo Scholar](https://neo.com/scholars) | ✅ Opened For 2025 | Get matched to start-ups, plus mentorship & resources for building your own. |
 | [Y Combinator](https://www.ycombinator.com/apply) | ✅ Opened | Get matched to start-ups, plus mentorship & resources for building your own. |
 | [Z Fellows](https://www.zfellows.com/) | ✅ Opened | Get matched to start-ups, plus mentorship & resources for building your own. |
+| [YES Internship Program](https://www.internships.yesatyale.org/students) | [March 7](https://docs.google.com/forms/d/e/1FAIpQLSf32DYzgzMIglrN8r0LykwTLb9w_445Ku16kyZGl38a55c64Q/closedform) | Match to compatible and exciting start-ups. |
 | [Kleiner Perkins Fellows](https://jobs.ashbyhq.com/kleinerperkinsfellows) | ⛔ Closed | Match students to various tech start-ups. |
 
 <br/>
