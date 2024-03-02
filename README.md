@@ -62,11 +62,11 @@ Short programs designed to help you get to know (and get noticed by) a company.
 
 | Name | Status | Note |
 | ---- | ---- | ---- |
+| [FS-ISAC Scholarship](https://www.fsisac.com/scholarships?utm_medium=email&_hsmi=290084339&utm_content=289826386&utm_source=hs_email) | ✅ Opened | For cybersecurity students! Secure a $10,000 scholarship for the 2023-24 academic year. You'll also get invaluable mentorship and a chance to network at FS-ISAC Summit or regional events. |
+| [Lockheed Martin Scholarship](https://lockheedmartin.com/en-us/who-we-are/communities/stem-education/lm-scholarship-program.html) | ✅ Opened | A $10,000 scholarship to students pursuing a bachelor's degree in engineering, computer science, math and physics fields! |
+| [Spectrum Scholars Applications](https://corporate.charter.com/newsroom/spectrum-scholars-2024-applications-open) | ✅ Opened | For rising college juniors, the 2024-2025 program will receive a $20,000 scholarship, a Charter mentor and the opportunity for a paid internship with the company. |
+| [Generation Google Scholarship](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship) | [March 26](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship) | 10,000 USD scholarship for students with financial need in computer science. |
 | [Simplify Interviews Scholarship](https://lnkd.in/gBfKe_NW) | ⛔ Closed | Full-ride scholarship that gives full access to all content, speaker events, live coding and behavioral sessions, and more. [More details](https://www.simplifyinterviews.com/) |
-| [Generation Google Scholarship](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship) | [Early 2024](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship) | 10,000 USD scholarship for students with financial need in computer science. |
-| [FS-ISAC Scholarship](https://www.fsisac.com/scholarships?utm_medium=email&_hsmi=290084339&utm_content=289826386&utm_source=hs_email) | [Early 2024](https://www.fsisac.com/scholarships?utm_medium=email&_hsmi=290084339&utm_content=289826386&utm_source=hs_email) | $10,000 scholarship for the 2023-24 academic year |
-| [Lockheed Martin Scholarship](https://lockheedmartin.com/en-us/who-we-are/communities/stem-education/lm-scholarship-program.html) | [Early 2024](https://lockheedmartin.com/en-us/who-we-are/communities/stem-education/lm-scholarship-program.html) | $10,000 scholarship to students pursuing a bachelor's degree in engineering, computer science, math and physics fields! |
-| [Generation Google Scholarship](https://corporate.charter.com/newsroom/spectrum-scholars-2024-applications-open) | [Early 2024](https://corporate.charter.com/newsroom/spectrum-scholars-2024-applications-open) | the 2024-2025 program will receive a $20,000 scholarship, a Charter mentor and the opportunity for a paid internship with the company. |
 
 <br/>
 
