@@ -54,6 +54,8 @@ Short programs designed to help you get to know (and get noticed by) a company.
 
 | Name | Status | Note |
 | ---- | ---- | ---- |
+| [MongoDB's Next in Tech Summit](https://app.ripplematch.com/v2/public/job/8a3b688a/details?from_page=company_branded_page) | ✅ Opened | Virtual Summit event in which attendees will experience a unique opportunity to connect with current MongoDB employees. |
+| [MongoDBs Women in Computer Science Summit](https://app.ripplematch.com/v2/public/job/4c794faa/details?from_page=company_branded_page) | ✅ Opened | Virtual Summit event in which attendees will experience a unique opportunity to connect with current MongoDB employees. |
 | [Jane Street Immersion Program](https://www.janestreet.com/join-jane-street/programs-and-events/jsip/) | ⛔ Closed | Fellowship at Jane Street NYC. Scholarship available. |
 | [Palantir Launch Spring Program](https://jobs.lever.co/palantir/220a225d-2f9c-4ee2-b28a-3a9683acb3ec) | ⛔ Closed | 1-week on-site at Palantir with interactive workshops and hands-on sessions. |
 
@@ -63,6 +65,8 @@ Short programs designed to help you get to know (and get noticed by) a company.
 
 | Name | Status | Note |
 | ---- | ---- | ---- |
+| [Palantir Future Scholarship (North America)](https://jobs.lever.co/palantir/a3708da1-5607-4c2b-a787-9ce744c343de) | ✅ Opened | All recipients will be awarded grants of $7,000 to support their education. |
+| [Palantir Women in Technology Scholarship (North America)](https://jobs.lever.co/palantir/b349a2f5-2018-4350-914b-95fbc8c60d3f) | ✅ Opened | All recipients will be awarded grants of $7,000 to support their education. |
 | [FS-ISAC Scholarship](https://www.fsisac.com/scholarships?utm_medium=email&_hsmi=290084339&utm_content=289826386&utm_source=hs_email) | ✅ Opened | For cybersecurity students! Secure a $10,000 scholarship for the 2023-24 academic year. You'll also get invaluable mentorship and a chance to network at FS-ISAC Summit or regional events. |
 | [Lockheed Martin Scholarship](https://lockheedmartin.com/en-us/who-we-are/communities/stem-education/lm-scholarship-program.html) | ✅ Opened | A $10,000 scholarship to students pursuing a bachelor's degree in engineering, computer science, math and physics fields! |
 | [Spectrum Scholars Applications](https://corporate.charter.com/newsroom/spectrum-scholars-2024-applications-open) | ✅ Opened | For rising college juniors, the 2024-2025 program will receive a $20,000 scholarship, a Charter mentor and the opportunity for a paid internship with the company. |
