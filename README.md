@@ -13,15 +13,15 @@ Mentorship, training, or open-source contribution programs.
 | [Break Through Tech AI Fellowship](https://tech.cornell.edu/impact/break-through-tech/break-through-ai/) | ✅ Opened | 1-year virtual program starting in summer. Focused on female/nonbinary students and students from underrepresented backgrounds.|
 | [Develop for Good](https://www.developforgood.org/for-students) | ✅ Opened | 💥Unpaid💥 mentorship. Team up tech college students and industry professional mentors to work on projects for real nonprofit clients. |
 | [MLH Fellowship](https://fellowship.mlh.io/programs/software-engineering) | ✅ Opened | Match students to an open-source project. Stipend available. |
-| [UberSTAR](https://university-uber.icims.com/jobs/126368/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | ⛔ Closed | Paid student internship for first or second-year students enrolled full-time in a community college or university. |
 | [IBM Accelerate](https://careers.ibm.com/campaign/accelerate-application-form/) | ✅ Opened | 8-week virtual learning experience with different tracks on a variety of tech and industry topics. |
 | [Fellows Program - America Needs You](https://americaneedsyou.org/fellows-program/) | ✅ Opened | Two-year program that provides one-on-one mentorship, intensive career development, robust networks, and holistic support. |
+| [CodeDay Labs](https://labs.codeday.org/) | ✅ Opened | 💥Unpaid💥 mentorship. Matched with a mentor from the technology industry and will contribute to an open-source project. [💥💥This program has another opportunity in Spring 2024💥💥](#fellowships-for-spring-2024)|
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | [March 18](https://developers.google.com/open-source/gsoc/timeline) | Match students to an open-source project. Stipend available. |
 | [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/#projects_all) | [April 29 💥Please click on this for the list of accepted organizations💥](https://github.com/cncf/mentoring/blob/main/programs/lfx-mentorship/2024/02-Jun-Aug/README.md) | Match students to an open-source project. Stipend available. [💥💥This program has another opportunity in Spring 2024💥💥](#fellowships-for-spring-2024) |
-| [CodeDay Labs](https://labs.codeday.org/) | ✅ Opened | 💥Unpaid💥 mentorship. Matched with a mentor from the technology industry and will contribute to an open-source project. [💥💥This program has another opportunity in Spring 2024💥💥](#fellowships-for-spring-2024)|
+| [MetLife Technical University/MTU Summer Internship Program](https://www.metlifecareers.com/ml/Blog?folderId=940) | ? | Gain experience needed to grow a successful career in tech. |
 | [Outreachy](https://www.outreachy.org/apply/eligibility/) | ⛔ Closed | Match students to an open-source project. Stipend available. |
 | [Thrive Capital Fellowship](https://fellows.thrivecap.com/en/) | ⛔ Closed | 8-week paid internship, a stipend to offset education costs, and exclusive access to the Thrive team and portfolio organizations. |
-| [MetLife Technical University/MTU Summer Internship Program](https://www.metlifecareers.com/ml/Blog?folderId=940) | ? | Gain experience needed to grow a successful career in tech. |
+| [UberSTAR](https://university-uber.icims.com/jobs/126368/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | ⛔ Closed | Paid student internship for first or second-year students enrolled full-time in a community college or university. |
 
 <br/>
 
