@@ -13,7 +13,7 @@ Mentorship, training, or open-source contribution programs.
 | [Break Through Tech AI Fellowship](https://tech.cornell.edu/impact/break-through-tech/break-through-ai/) | ✅ Opened | 1-year virtual program starting in summer. Focused on female/nonbinary students and students from underrepresented backgrounds.|
 | [Develop for Good](https://www.developforgood.org/for-students) | ✅ Opened | 💥Unpaid💥 mentorship. Team up tech college students and industry professional mentors to work on projects for real nonprofit clients. |
 | [MLH Fellowship](https://fellowship.mlh.io/programs/software-engineering) | ✅ Opened | Match students to an open-source project. Stipend available. |
-| [IBM Accelerate](https://careers.ibm.com/campaign/accelerate-application-form/) | ✅ Opened | 8-week virtual learning experience with different tracks on a variety of tech and industry topics. |
+| [IBM Accelerate Summer Program](https://careers.ibm.com/campaign/accelerate-application-form/) | ✅ Opened | 8-week virtual learning experience with different tracks on a variety of tech and industry topics. |
 | [Fellows Program - America Needs You](https://americaneedsyou.org/fellows-program/) | ✅ Opened | Two-year program that provides one-on-one mentorship, intensive career development, robust networks, and holistic support. |
 | [CodeDay Labs](https://labs.codeday.org/) | ✅ Opened | 💥Unpaid💥 mentorship. Matched with a mentor from the technology industry and will contribute to an open-source project. [💥💥This program has another opportunity in Spring 2024💥💥](#fellowships-for-spring-2024)|
 | [CodePath Full Stack Tech Fellow](https://boards.greenhouse.io/codepath/jobs/4182850007) | ✅ Opened | 💥Full Time, Summer Contract💥 |
