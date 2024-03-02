@@ -40,11 +40,11 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships.
 
 | Name | Status | Note |
 | ---- | ---- | ---- |
-| [Kleiner Perkins Fellows](https://jobs.ashbyhq.com/kleinerperkinsfellows) | ✅ Opened | Match students to various tech start-ups. |
 | [8VC Fellowship](https://www.8vc.com/fellowships) | ✅ Opened | Fellowship open to CS & Design majors, match to investment portfolio tech start-ups. |
-| [Neo Scholar](https://neo.com/scholars) | ✅ Opened | Get matched to start-ups, plus mentorship & resources for building your own. |
+| [Neo Scholar](https://neo.com/scholars) | ✅ Opened For 2025 | Get matched to start-ups, plus mentorship & resources for building your own. |
 | [Y Combinator](https://www.ycombinator.com/apply) | ✅ Opened | Get matched to start-ups, plus mentorship & resources for building your own. |
 | [Z Fellows](https://www.zfellows.com/) | ✅ Opened | Get matched to start-ups, plus mentorship & resources for building your own. |
+| [Kleiner Perkins Fellows](https://jobs.ashbyhq.com/kleinerperkinsfellows) | ⛔ Closed | Match students to various tech start-ups. |
 
 <br/>
 
