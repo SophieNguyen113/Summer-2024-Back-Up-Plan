@@ -87,5 +87,6 @@ Short programs designed to help you get to know (and get noticed by) a company.
 | ---- | ---- |
 | [CodePath](https://www.codepath.org/plan-your-codepath) | Free online courses in web dev, mobile, cyber, etc. Also provide resume help, mentorship, interview prep, recruiting events, etc. |
 | [Forage](https://www.theforage.com/) | 5-6 hour virtual work experience programs. Featuring JPMC, Lyft, Visa, EA, SAP, etc. |
+| [Scholarships for College Students](https://bold.org/) | Find scholarships for college students with/without essays. |
 
 <br/>
