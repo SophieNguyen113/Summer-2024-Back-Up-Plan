@@ -60,7 +60,7 @@ Short programs designed to help you get to know (and get noticed by) a company.
 | [MongoDBs Women in Computer Science Summit](https://app.ripplematch.com/v2/public/job/4c794faa/details?from_page=company_branded_page) | ✅ Opened | Virtual Summit event in which attendees will experience a unique opportunity to connect with current MongoDB employees. |
 | [IMC Launchpad Chicago 2024 - Software](https://boards.eu.greenhouse.io/imc/jobs/4290088101/?utm_source=Simplify&gh_src=Simplify#app) | ✅ Opened | 2-day program for who is interested in software engineering and trading roles at a leading global trading firm. |
 | [Impact Labs Summit](https://www.impactlabs.io/summit) | ? | Professional networking event for students & professionals in NYC. |
-| [Jane Street Immersion Program](https://www.impactlabs.io/summit) | ⛔ Closed | Fellowship at Jane Street NYC. Scholarship available. |
+| [Jane Street Immersion Program](https://www.janestreet.com/join-jane-street/programs-and-events/jsip/) | ⛔ Closed | Fellowship at Jane Street NYC. Scholarship available. |
 | [Palantir Launch Spring Program](https://jobs.lever.co/palantir/220a225d-2f9c-4ee2-b28a-3a9683acb3ec) | ⛔ Closed | 1-week on-site at Palantir with interactive workshops and hands-on sessions. |
 
 <br/>
@@ -87,6 +87,6 @@ Short programs designed to help you get to know (and get noticed by) a company.
 | ---- | ---- |
 | [CodePath](https://www.codepath.org/plan-your-codepath) | Free online courses in web dev, mobile, cyber, etc. Also provide resume help, mentorship, interview prep, recruiting events, etc. |
 | [Forage](https://www.theforage.com/) | 5-6 hour virtual work experience programs. Featuring JPMC, Lyft, Visa, EA, SAP, etc. |
-| [Scholarships for College Students](https://bold.org/) | Find scholarships for college students with/without essays. |
+| [Bold](https://bold.org/) | Find scholarships for college students with/without essays. |
 
 <br/>
