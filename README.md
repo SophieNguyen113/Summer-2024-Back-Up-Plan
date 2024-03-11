@@ -44,7 +44,7 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships.
 | ---- | ---- | ---- |
 | [8VC Fellowship](https://www.8vc.com/fellowships) | ✅ Opened | Fellowship open to CS & Design majors, match to investment portfolio tech start-ups. |
 | [Neo Scholar](https://neo.com/scholars) | ✅ Opened For 2025 | Get matched to start-ups, plus mentorship & resources for building your own. |
-| [Y Combinator](https://www.ycombinator.com/apply) | ✅ Opened | Get matched to start-ups, plus mentorship & resources for building your own. |
+| [Y Combinator](https://www.workatastartup.com/companies?demographic=any&hasEquity=any&hasSalary=any&industry=any&interviewProcess=any&jobType=intern&layout=list-compact&role=eng&sortBy=created_desc&tab=any&usVisaNotRequired=any) | ✅ Opened | Get matched to start-ups, plus mentorship & resources for building your own. |
 | [Z Fellows](https://www.zfellows.com/) | ✅ Opened | Get matched to start-ups, plus mentorship & resources for building your own. |
 | [YES Internship Program](https://www.internships.yesatyale.org/students) | [March 7](https://docs.google.com/forms/d/e/1FAIpQLSf32DYzgzMIglrN8r0LykwTLb9w_445Ku16kyZGl38a55c64Q/closedform) | Match to compatible and exciting start-ups. |
 | [Kleiner Perkins Fellows](https://jobs.ashbyhq.com/kleinerperkinsfellows) | ⛔ Closed | Match students to various tech start-ups. |
