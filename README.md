@@ -65,6 +65,15 @@ Short programs designed to help you get to know (and get noticed by) a company.
 
 <br/>
 
+## Volunteer Contributing to Tech Projects
+
+| Name | Note |
+| ---- | ---- |
+| [Tech Fleet](https://techfleet.org/) | Gain real team experience in UX, Product Management, and Development. |
+| [Catchafire](https://www.catchafire.org/volunteers) | Build your resume and portfolio while directly supporting the causes you care about. |
+
+<br/>
+
 ## Scholarships
 
 | Name | Status | Note |
@@ -79,15 +88,6 @@ Short programs designed to help you get to know (and get noticed by) a company.
 | [IMC - Prosperity](https://prosperity.imc.com/?utm_source=ooh&utm_medium=banners&utm_campaign=prosperity_recruitment&utm_content=US-recruitment-launchpad) | [April 8](https://prosperity.imc.com/?utm_source=ooh&utm_medium=banners&utm_campaign=prosperity_recruitment&utm_content=US-recruitment-launchpad) | 15-Day trading challenge, a $50,000 prize pool. |
 | [Generation Google Scholarship](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship) | [March 26](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship) | 10,000 USD scholarship for students with financial need in computer science. |
 | [Simplify Interviews Scholarship](https://lnkd.in/gBfKe_NW) | ⛔ Closed | Full-ride scholarship that gives full access to all content, speaker events, live coding and behavioral sessions, and more. [More details](https://www.simplifyinterviews.com/) |
-
-<br/>
-
-## Volunteer Contributing to Tech Projects
-
-| Name | Note |
-| ---- | ---- |
-| [Tech Fleet](https://techfleet.org/) | Gain real team experience in UX, Product Management, and Development. |
-| [Catchafire](https://www.catchafire.org/volunteers) | Build your resume and portfolio while directly supporting the causes you care about. |
 
 <br/>
 
